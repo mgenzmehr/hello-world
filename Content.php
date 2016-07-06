@@ -29,7 +29,7 @@ public function lang () {
     } 
 }
 
-public function lang () {
+public function header () {
     return "<p>header</p>";
 }
 
